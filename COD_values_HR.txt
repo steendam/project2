@@ -1,0 +1,2 @@
+Date Concentrate	Influent_concentrate	Influent_total	Influent_soluble	Bioreactor_soluble
+21/10/2013	4280	489	379	281	337
